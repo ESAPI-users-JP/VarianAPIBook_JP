@@ -42,3 +42,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`search`
 
+.. |copy|   unicode:: U+000A9 .. COPYRIGHT SIGN
